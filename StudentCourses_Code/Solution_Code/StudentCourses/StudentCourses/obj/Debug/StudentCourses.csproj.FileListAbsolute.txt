@@ -1,0 +1,6 @@
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\bin\StudentCourses.dll.config
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\bin\StudentCourses.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\bin\StudentCourses.pdb
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\obj\Debug\StudentCourses.csprojResolveAssemblyReference.cache
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\obj\Debug\StudentCourses.dll
+C:\Users\JDom\Documents\Visual Studio 2013\Projects\StudentCourses_Code\Solution_Code\StudentCourses\StudentCourses\obj\Debug\StudentCourses.pdb
